@@ -1,0 +1,5 @@
+type: improvement
+improvement:
+  description: Upgrade to Hadoop 3.x releases
+  links:
+  - https://github.com/palantir/hadoop-crypto/pull/442
